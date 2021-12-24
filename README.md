@@ -5,9 +5,9 @@
 </p>
 <p>
   The topics I've covered so far:
-  <ul>
+  <ol>
     <li> <a href="url">Hello World</a> </li>
-  </ul>
+  </ol>
 </p>
 
 ![C-Sharp](https://user-images.githubusercontent.com/13821079/147151548-c9870b26-675a-4218-8f03-c2f9cbc240ce.png)
