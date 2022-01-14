@@ -6,6 +6,6 @@ Console.WriteLine("--------------------------------------------");
 Console.WriteLine();
 
 Console.Write("Please enter your first name: ");
-string firstName = Console.ReadLine();
+string? firstName = Console.ReadLine();
 Console.WriteLine($"Hello { firstName }");
 Console.ReadLine();
