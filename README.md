@@ -6,7 +6,7 @@
 <p>
   The topics I've covered so far:
   <ol>
-    <li> <a href="url">Hello World</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/1_HelloWorld">Hello World</a> </li>
   </ol>
 </p>
 
