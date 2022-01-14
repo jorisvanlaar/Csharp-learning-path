@@ -7,6 +7,7 @@
   The topics I've covered so far:
   <ol>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/1_HelloWorld">Hello World!</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/2_BasicUserInput">Basic User Input</a> </li>
   </ol>
 </p>
 
