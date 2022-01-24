@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleVariable", "DoubleVar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalVariable", "DecimalVariable\DecimalVariable.csproj", "{5E0E82F0-0CD5-430D-B052-E1232F0C83EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVariable", "BoolVariable\BoolVariable.csproj", "{1D52E0A7-1EB3-4843-B4DC-B6CBBC0790F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoolVariable", "BoolVariable\BoolVariable.csproj", "{1D52E0A7-1EB3-4843-B4DC-B6CBBC0790F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullVariable", "NullVariable\NullVariable.csproj", "{D7153728-FCBD-47CA-A44D-68DE97C6EF71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1D52E0A7-1EB3-4843-B4DC-B6CBBC0790F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D52E0A7-1EB3-4843-B4DC-B6CBBC0790F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D52E0A7-1EB3-4843-B4DC-B6CBBC0790F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7153728-FCBD-47CA-A44D-68DE97C6EF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7153728-FCBD-47CA-A44D-68DE97C6EF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7153728-FCBD-47CA-A44D-68DE97C6EF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7153728-FCBD-47CA-A44D-68DE97C6EF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
