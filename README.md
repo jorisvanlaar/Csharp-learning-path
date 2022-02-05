@@ -11,6 +11,7 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/3_CommonVariables">Common Variables</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/4_DateTimeVariables">DateTime Variables</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/5_TypeConversion">Type Conversion</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/6_Conditionals">Conditionals</a> </li>
   </ol>
 </p>
 
