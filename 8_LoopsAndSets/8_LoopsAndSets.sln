@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoops", "DoWhileLoops\DoWhileLoops.csproj", "{CEF87946-4A00-47DE-8E23-4ED40F9C32E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoops", "DoWhileLoops\DoWhileLoops.csproj", "{CEF87946-4A00-47DE-8E23-4ED40F9C32E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoops_Homework", "DoWhileLoops_Homework\DoWhileLoops_Homework.csproj", "{432DBC51-AC5A-43FE-A674-B0380569DD80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoops_Homework", "DoWhileLoops_Homework\DoWhileLoops_Homework.csproj", "{432DBC51-AC5A-43FE-A674-B0380569DD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{6A502807-4DCD-4431-92EB-0BA0FF8B34DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Homework", "Array_Homework\Array_Homework.csproj", "{AD0B3285-D01A-4756-B11C-A67204FF2090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{432DBC51-AC5A-43FE-A674-B0380569DD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432DBC51-AC5A-43FE-A674-B0380569DD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432DBC51-AC5A-43FE-A674-B0380569DD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A502807-4DCD-4431-92EB-0BA0FF8B34DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A502807-4DCD-4431-92EB-0BA0FF8B34DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A502807-4DCD-4431-92EB-0BA0FF8B34DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A502807-4DCD-4431-92EB-0BA0FF8B34DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0B3285-D01A-4756-B11C-A67204FF2090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0B3285-D01A-4756-B11C-A67204FF2090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0B3285-D01A-4756-B11C-A67204FF2090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0B3285-D01A-4756-B11C-A67204FF2090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
