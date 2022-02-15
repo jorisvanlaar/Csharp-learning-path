@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Homework", "Array_Homework\Array_Homework.csproj", "{AD0B3285-D01A-4756-B11C-A67204FF2090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{9D4619BB-D90B-40CA-B51B-9560A80D2CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List", "List\List.csproj", "{9D4619BB-D90B-40CA-B51B-9560A80D2CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Homework", "List_Homework\List_Homework.csproj", "{0D164574-76DA-402E-897E-1D1D915181D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_Homework", "List_Homework\List_Homework.csproj", "{0D164574-76DA-402E-897E-1D1D915181D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{7A6E9568-6907-4A91-9CC9-3CC8284FA41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Homework", "Dictionary_Homework\Dictionary_Homework.csproj", "{CBFF58DA-FE6E-4F4E-A327-5070935D0985}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{0D164574-76DA-402E-897E-1D1D915181D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D164574-76DA-402E-897E-1D1D915181D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D164574-76DA-402E-897E-1D1D915181D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6E9568-6907-4A91-9CC9-3CC8284FA41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6E9568-6907-4A91-9CC9-3CC8284FA41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6E9568-6907-4A91-9CC9-3CC8284FA41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6E9568-6907-4A91-9CC9-3CC8284FA41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFF58DA-FE6E-4F4E-A327-5070935D0985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFF58DA-FE6E-4F4E-A327-5070935D0985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFF58DA-FE6E-4F4E-A327-5070935D0985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFF58DA-FE6E-4F4E-A327-5070935D0985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
