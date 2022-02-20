@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_Homework", "Dictionary_Homework\Dictionary_Homework.csproj", "{CBFF58DA-FE6E-4F4E-A327-5070935D0985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{0FA70E17-3594-46CF-8859-6EA1BD5EABC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.csproj", "{0FA70E17-3594-46CF-8859-6EA1BD5EABC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop_Homework", "ForLoop_Homework\ForLoop_Homework.csproj", "{B6B8F57D-599B-4A38-B14A-5C12416ED5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop_Homework", "ForLoop_Homework\ForLoop_Homework.csproj", "{B6B8F57D-599B-4A38-B14A-5C12416ED5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoop", "ForeachLoop\ForeachLoop.csproj", "{802FE364-6736-4DAB-B95F-751775699830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoop_Homework", "ForeachLoop_Homework\ForeachLoop_Homework.csproj", "{CEDE1921-6C86-4521-A8C9-A945A57751B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{B6B8F57D-599B-4A38-B14A-5C12416ED5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B8F57D-599B-4A38-B14A-5C12416ED5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B8F57D-599B-4A38-B14A-5C12416ED5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802FE364-6736-4DAB-B95F-751775699830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802FE364-6736-4DAB-B95F-751775699830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802FE364-6736-4DAB-B95F-751775699830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802FE364-6736-4DAB-B95F-751775699830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDE1921-6C86-4521-A8C9-A945A57751B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDE1921-6C86-4521-A8C9-A945A57751B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDE1921-6C86-4521-A8C9-A945A57751B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDE1921-6C86-4521-A8C9-A945A57751B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
