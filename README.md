@@ -14,6 +14,7 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/6_Conditionals">Conditionals</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/7_MiniProject_StudentCheck">Mini Project: Student Check</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/8_LoopsAndSets">Loops and Sets</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/9_Methods">Methods</a> </li>
   </ol>
 </p>
 
