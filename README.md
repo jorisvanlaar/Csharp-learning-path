@@ -17,5 +17,6 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/8_LoopsAndSets">Loops and Sets</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/9_Methods">Methods</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/10_MiniProject_GuestBook">Mini Project: Guest Book</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/11_Exceptions">Exception Handling</a> </li>
   </ol>
 </p>
