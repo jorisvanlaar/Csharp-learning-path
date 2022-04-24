@@ -19,5 +19,6 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/10_MiniProject_GuestBook">Mini Project: Guest Book</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/11_Exceptions">Exception Handling</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/12_StaticClasses">Static Classes</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/13_InstantiatedClasses">Instantiated Classes</a> </li>
   </ol>
 </p>
