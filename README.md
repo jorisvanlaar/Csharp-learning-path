@@ -21,5 +21,6 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/12_StaticClasses">Static Classes</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/13_InstantiatedClasses">Instantiated Classes</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/14_PropertyTypes">Property Types</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/15_Namespaces">Namespaces</a> </li>
   </ol>
 </p>
