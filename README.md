@@ -24,5 +24,6 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/15_Namespaces">Namespaces</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/16_ClassLibraries"> Class Libraries</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/17_MiniProject_BetterGuestBook"> Mini Project: Better Guest Book</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/18_Project_Battleship_Lite"> Project: Battleship Lite</a> </li>
   </ol>
 </p>
