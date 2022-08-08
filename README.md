@@ -28,5 +28,6 @@
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/19_Inheritance"> Inheritance</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/20_Interfaces"> Interfaces</a> </li>
     <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/21_MiniProject_InventorySystem"> Mini Project: Inventory System</a> </li>
+    <li> <a href="https://github.com/jorisvanlaar/Csharp-learning-path/tree/main/22_AccessModifiers"> Access Modifiers</a> </li>
   </ol>
 </p>
